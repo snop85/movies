@@ -132,7 +132,7 @@ fetch('https://randomuser.me/api/')
   })
 
   //const $home = $('.home.list #item');
-  const $actionContainer = document.querySelector('#acction');
+  const $actionContainer = document.querySelector('#action');
   const $dramaContainer = document.getElementById('#drama');
   const $animationContainer = document.getElementById('#animation');
 
